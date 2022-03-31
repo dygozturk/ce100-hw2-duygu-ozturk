@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Desktop\ce100-hw2-duygu-ozturk\ce100-hw2-duygu-ozturk\bin\Debug\ce100-hw2-duygu-ozturk.dll
+C:\Users\Lenovo\Desktop\ce100-hw2-duygu-ozturk\ce100-hw2-duygu-ozturk\bin\Debug\ce100-hw2-duygu-ozturk.pdb
+C:\Users\Lenovo\Desktop\ce100-hw2-duygu-ozturk\ce100-hw2-duygu-ozturk\obj\Debug\ce100-hw2-algo-lib-cs.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\ce100-hw2-duygu-ozturk\ce100-hw2-duygu-ozturk\obj\Debug\ce100-hw2-algo-lib-cs.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\ce100-hw2-duygu-ozturk\ce100-hw2-duygu-ozturk\obj\Debug\ce100-hw2-duygu-ozturk.dll
+C:\Users\Lenovo\Desktop\ce100-hw2-duygu-ozturk\ce100-hw2-duygu-ozturk\obj\Debug\ce100-hw2-duygu-ozturk.pdb
